@@ -30,3 +30,15 @@ descententemente.
 
 **Descripción:** Creamos un nuevo metodo de burbuja mejorado o avanzado, el cual realiza una variacion en las comparaciones de los for y a parte una comparacion extra de un if el cual sirve para poder ordenar de manera ascendente y  descendente en un solo metodo. 
 
+---
+
+## Práctica 1.3 Metodo Selección
+
+- **Nombre:** Renato Martin Amaya Siguenza
+- **Curso:** grupo 3
+- **Fecha:** 22/04/2026
+
+## Evidencia
+![alt text](assets/capMetodoSeleccion.png)
+
+**Descripción:** Creamos un metodo llamado de seleccion que busca un indice menor el cual se compara con el resto de elemento de una rreglo, lo presentamos en consola, y despues hicimos el mismo metodo pero de manera descendente.
