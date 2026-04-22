@@ -8,7 +8,7 @@
 - **Curso:** grupo 3
 - **Fecha:** 20/04/2026
 
----
+
 ## Evidencia
 ![alt text](assets/capMetodoBurbuja.png)
 
@@ -19,5 +19,14 @@ descententemente.
 
 ---
 
+## Práctica 1.2 Metodo Búrbuja Avanzado
 
+- **Nombre:** Renato Martin Amaya Siguenza
+- **Curso:** grupo 3
+- **Fecha:** 21/04/2026
+
+## Evidencia
+![alt text](assets/capMetodoBurbujaAv.png)
+
+**Descripción:** Creamos un nuevo metodo de burbuja mejorado o avanzado, el cual realiza una variacion en las comparaciones de los for y a parte una comparacion extra de un if el cual sirve para poder ordenar de manera ascendente y  descendente en un solo metodo. 
 
